@@ -1,0 +1,30 @@
+Nov 27 20:50:16 demo rsyslogd: [origin software="rsyslogd" swVersion="5.8.10" x-pid="1335" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Nov 27 20:50:18 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9402, limit 9000
+Nov 27 20:50:25 demo kernel: [Hardware Error]: Machine check events logged
+Nov 27 20:50:28 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9402, limit 9000
+Nov 27 20:50:33 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9394, limit 9000
+Nov 27 20:50:38 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9405, limit 9000
+Nov 27 20:50:43 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9412, limit 9000
+Nov 27 20:50:48 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9559, limit 9000
+Nov 27 20:50:58 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9245, limit 9000
+Nov 27 20:51:03 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9456, limit 9000
+Nov 27 20:51:53 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9779, limit 9000
+Nov 27 20:51:58 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9274, limit 9000
+Nov 27 20:52:03 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9230, limit 9000
+Nov 27 20:52:08 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9353, limit 9000
+Nov 27 20:52:13 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9661, limit 9000
+Nov 27 20:52:28 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9382, limit 9000
+Nov 27 20:52:33 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9210, limit 9000
+Nov 27 20:52:38 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9322, limit 9000
+Nov 27 20:52:43 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9333, limit 9000
+Nov 27 20:52:53 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9324, limit 9000
+Nov 27 20:52:58 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9525, limit 9000
+Nov 27 20:53:03 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9311, limit 9000
+Nov 27 20:53:22 demo kernel: CPU3: Core temperature above threshold, cpu clock throttled (total events = 232)
+Nov 27 20:53:22 demo kernel: CPU2: Core temperature above threshold, cpu clock throttled (total events = 232)
+Nov 27 20:53:22 demo kernel: CPU3: Core temperature/speed normal
+Nov 27 20:53:22 demo kernel: CPU2: Core temperature/speed normal
+Nov 27 20:53:23 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9674, limit 9000
+Nov 27 20:53:28 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9721, limit 9000
+Nov 27 20:53:33 demo kernel: intel ips 0000:00:1f.6: MCP limit exceeded: Avg temp 9624, limit 9000
+Nov 27 20:55:25 demo kernel: [Hardware Error]: Machine check events logged
