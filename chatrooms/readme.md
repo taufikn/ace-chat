@@ -1,1 +1,2 @@
-this is trying to push to the upstream
+###this is the note on the project
+    its still need to a lil configure on the client side
